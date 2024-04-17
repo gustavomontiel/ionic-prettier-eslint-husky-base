@@ -1,0 +1,7 @@
+{
+  "name": "ionic-prettier-eslint-husky-base",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
